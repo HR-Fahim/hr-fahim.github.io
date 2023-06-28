@@ -1,6 +1,6 @@
 # About
 
-Used prebuilt website templates here.
+Used prebuilt website templates here and modified for personal use only. Kept all license agreement reserved.
 
 The footer section is part of a website template created by Colorlib and distributed by ThemeWagon. It includes social media links and copyright information.
 
