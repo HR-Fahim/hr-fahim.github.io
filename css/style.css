@@ -942,7 +942,7 @@ body.offcanvas {
   background-position: center center;
   background-repeat: no-repeat;
   position: relative;
-  height: 300px;
+  height: 500px;
   width: 100%;
   display: block;
   margin-bottom: 30px; }
@@ -965,7 +965,7 @@ body.offcanvas {
       height: 300px; }
       .project .desc .con .icon {
         position: absolute;
-        bottom: 20px;
+        bottom: -180px;
         left: 20px;
         right: 20px; }
         .project .desc .con .icon span {
